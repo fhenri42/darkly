@@ -1,0 +1,29 @@
+
+14 faille a trouver
+
+model owasp
+
+rendu:
+
+/nom de la faille
+un flag
+/ressources/tous se que on veut
+
+
+
+addon necessair:
+
+Cookies Manager +
+firebug
+Temper data
+Live HTTP headers
+User Agent Switcher
+View Source charte
+No srcipt
+
+
+injection sql
+faille upload
+faille XSS
+faille Include
+faille formulaire

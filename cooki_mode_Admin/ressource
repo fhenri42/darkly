@@ -1,0 +1,5 @@
+commande a lancer dans la console:
+
+document.cookie = "I_am_admin=b326b5062b2f0e69046810717534cb09; expires=Thu, 18 Dec 2200 12:00:00 UTC; path=/";
+
+true = b326b5062b2f0e69046810717534cb09
