@@ -5,6 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "fs": "^0.0.1-security",
-    "http": "^0.0.0"
+    "http": "^0.0.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0"
   }
 }
