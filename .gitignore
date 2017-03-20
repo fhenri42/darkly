@@ -1,0 +1,8 @@
+*~
+*.swp
+*.swo
+yarn.lock
+log
+tmp
+node_modules
+npm-debug.log
