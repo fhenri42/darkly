@@ -1,0 +1,6 @@
+Sur le petit onglet qui redirige vers la page Facebook, inspecter l'element, et modifier l'attribut:
+http://10.11.200.147/index.php?page=redirect&site=facebook
+par:
+http://10.11.200.147/index.php?page=redirect&site=lol
+
+On obtient le flag: B9E775A0291FED784A2D9680FCFAD7EDD6B8CDF87648DA647AAF4BBA288BCAB3
