@@ -1,6 +1,11 @@
-Sur le petit onglet qui redirige vers la page Facebook, inspecter l'element, et modifier l'attribut:
+go to => http://10.11.200.155/
+
+Open your console.
+
+On the Facebook button that open a tab to Facebook, change the attribute
 http://10.11.200.147/index.php?page=redirect&site=facebook
-par:
+
+to:
 http://10.11.200.147/index.php?page=redirect&site=lol
 
-On obtient le flag: B9E775A0291FED784A2D9680FCFAD7EDD6B8CDF87648DA647AAF4BBA288BCAB3
+you will get the  flag: B9E775A0291FED784A2D9680FCFAD7EDD6B8CDF87648DA647AAF4BBA288BCAB3

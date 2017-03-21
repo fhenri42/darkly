@@ -1,6 +1,11 @@
-you will need to dowload burp suite,
+you will need to dowload burp suite.
+
 go to => http://10.11.200.155/?page=upload
+
 go to your mozzila=>preferece=>advance=>networck=>parameter and add a porxy on 8080
-just upload a file,
+
+just upload a file.
+
 After we will create a repeteur of your request and send it back whit a other file, like a sript.
-if I am not clear are i miss somthing: https://www.youtube.com/watch?v=N5RMx7VprNU
+
+if I am not clear are I miss something: https://www.youtube.com/watch?v=N5RMx7VprNU
