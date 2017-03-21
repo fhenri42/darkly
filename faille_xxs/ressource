@@ -1,1 +1,5 @@
-ecrire des caracteres speciaux genre "<" ou bien "script" ou "e"
+you whill need to trie to inject a script in the form.
+
+like "<" or  "script" or "e"
+
+this form does not worck really well, for more information => https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)

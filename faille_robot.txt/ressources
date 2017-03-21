@@ -1,9 +1,8 @@
-on vas sur:
-http://10.11.200.155/robots.txt
-puis sur:
-http://10.11.200.155/whatever/
-on dl le fichier
-puis le decripte en md5.
+go to: http://10.11.200.155/robots.txt
+next go to: http://10.11.200.155/whatever/
+download the file,
+root: 8621ffdbc5698829397d97767ac13db3
+you will need to use http://www.md5online.fr/
+after go to http://10.11.200.155/admin/
 
-on utilise le mpd pour se connecte sur la page:
-http://10.11.200.155/admin/
+and use root and the pass word you find.
